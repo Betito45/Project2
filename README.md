@@ -8,7 +8,7 @@ Time spent: **3** hours spent in total
 
 Kotlin Debug-a-thon has alot of bugs that I need to change **Change or add to this description**
 
-If I had to describe this project in three (3) emojis, they would be: 😁😆🥳
+If I had to describe this project in three (3) emojis, they would be: 🤣😜👏
 
 ## Application Features
 
